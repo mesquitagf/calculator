@@ -1,0 +1,27 @@
+.calculatorTable {
+    border: solid 2px black !important;
+}
+
+.calculatorTable td, .calculatorTable th{
+    padding: 10px 25px;
+    color: white !important;
+    font-size: 25px;
+    border: solid 1px white;
+    align-items: center;
+}
+
+.calculatorTable th:hover, .calculatorTable td:hover{
+    cursor: pointer;
+}
+
+.calculatorTable .calNumbers {
+    background-color: black;
+}
+
+.calculatorTable .calOperations{
+    background-color: darkslategray;
+}
+
+.bigOperator{
+    padding-top: 35px !important;
+}

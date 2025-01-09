@@ -1,0 +1,10 @@
+.numberScreen{
+    width: 100%;
+    padding: 15px;
+    font-size: 40px;
+    color: black;
+    border: solid 2px black;
+    border-bottom: 1px;
+    text-align: left;
+    overflow: hidden;
+}
